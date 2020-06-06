@@ -1,0 +1,76 @@
+html {
+    height: auto;
+}
+body {
+    background-color: rgb(73, 75, 74);
+    background-image: url(../images/Doctor-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+img {
+    height: 110px;
+    width: 90px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+    height: 118px;
+    text-align: center;
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.575);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.loginclr {
+    color: white;
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+main {
+    height: 400px;
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-top: 80px;    
+}
+h1 {
+    font-size: 84px;
+    color: rgb(34, 21, 21);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(2, 2, 14);
+    font-family: Arial, Helvetica, sans-serif
+}
+a{
+    color: rgb(7, 32, 7);
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 12px;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.253);
+}
+footer p {
+    font-style: italic;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 10px;
+}
+section { 
+    /* height: 175px; */
+    /* width: 175px; */
+     text-align: center; 
+}  
